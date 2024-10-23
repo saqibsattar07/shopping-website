@@ -96,7 +96,7 @@ export const propertiesList = [
 const Features = () => {
   return (
     <div className="container mx-auto pt-10 pb-20">
-      <h3 className="text-4xl text-center mb-2">Featurred Properties</h3>
+      <h3 className="text-4xl text-center mb-2">Featured Properties</h3>
       <p className="text-center text-muted-foreground">
         Explore our exquisite featured properties showcasing unparalleled charm,
         luxurious amenities, and prime locations
