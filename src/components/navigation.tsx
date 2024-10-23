@@ -33,7 +33,7 @@ const Navigation = () => {
 
         <div>
           <Avatar>
-            <AvatarImage src="" />
+            <AvatarImage src="/profile/saqib.png" />
             <AvatarFallback>U</AvatarFallback>
           </Avatar>
         </div>
