@@ -25,7 +25,7 @@ const Footer = () => {
           </div>
         </div>
         <p className="text-center text-slate-400 mt-10">
-          © 2024 EState. Design by The Brave Coders.
+          © 2024 EState. Design by The Saqib Sattar.
         </p>
       </div>
     </footer>
